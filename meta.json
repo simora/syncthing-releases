@@ -1,0 +1,17 @@
+[
+  {
+    "tag_name": "v0.13.10",
+    "prerelease": false,
+    "assets": [
+
+      {
+        "url": "https://github.com/syncthing/syncthing/releases/download/v0.13.10/syncthing-linux-386-v0.13.10.tar.gz",
+        "name": "syncthing-linux-386-v0.13.10.tar.gz",
+      },
+      {
+        "url": "https://github.com/syncthing/syncthing/releases/download/v0.13.10/syncthing-linux-amd64-v0.13.10.tar.gz",
+        "name": "syncthing-linux-amd64-v0.13.10.tar.gz",
+      }
+    ]
+  }
+]
